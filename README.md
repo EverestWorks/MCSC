@@ -15,6 +15,7 @@ MSCS follows 3 simple rules.
 1. Put only things that will be used during usage.
 2. Be simple to understand
 3. Aim for a wide audience to understand this
+4. ADD COMMENT DOCUMENTATION!!
 
 We use python for our products, which is to encourage people of all skills to contribute, and because it is simple to learn, and is powerful with many addons that can be utilized in development. 
 
